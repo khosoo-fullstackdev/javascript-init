@@ -5,4 +5,4 @@ function sum(a) {
     } 
     console.log("Answer", sum1);
   }
-  sum (9)
+sum (9)
